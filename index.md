@@ -4,12 +4,15 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+A PhD in Computer Science candidate skilled in affective computing, multimodal data development, and data analysis
 
-## Research Interests
+## TECHNICAL SKILLS
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Data Analysis and Statistics:** Multimodel Data, R, Python
+- **Design and Modeling Tools:** Swift, Xcode, Canvas, Microsoft Office
+- **Programming:** Python, R, C++, Swift
+- **Operating Systems:** MS Windows, MacOS
+- **Certifications:** LSU IRB – December 2019, Human Research Investigation. CITI - University of Houston
 
 ## News
 
@@ -18,6 +21,6 @@ I am a Ph.D. student at ...
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-{% include_relative _includes/services.md %}
+<!--  {% include_relative _includes/services.md %} -->
