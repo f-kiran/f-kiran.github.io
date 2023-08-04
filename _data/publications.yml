@@ -13,7 +13,7 @@ main:
     image: ./assets/img/teaser_J2.png
     mainpage:  https://www.tandfonline.com/doi/full/10.1080/07481187.2021.1923588
 
-  - title: "Quantifying Brain Activity State: EEG analysis of Background Music in A Serious Game on Attention of Children"
+  - title: "Quantifying Brain Activity State: EEG Analysis of Background Music in A Serious Game on Attention of Children"
     authors: Ömer M. Soysal, <strong>Fettah Kiran</strong> Jianhua Chen
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:W7OEmFMy1HYC
     conference_short: IEEE/ISMSIT
