@@ -2,10 +2,19 @@
 layout: homepage
 ---
 
-## About Me
+## Bio
 
-A PhD in Computer Science candidate skilled in affective computing, multimodal data development, and data analysis
+A researcher at [ACDC](https://cpl.uh.edu/index.php/) lab in Computer Science skilled in affective computing, multimodal data development, and data analysis.
 
+
+## Research Interests
+
+- Affective Computing
+- Machine Learning
+- Computer Vision
+
+<!-- publications.md-->
+{% include_relative _includes/publications.md %}
 
 ## EDUCATION
 
@@ -15,13 +24,13 @@ College of Natural Sciences and Mathematics \
 Relevant coursework: Statistical Methods in Research \
 Research: Affective Computing, Human-Computer Interaction, Signal Processing 
 
-**M.S., Computer Science** \
+**M.Sc., Computer Science** \
 Louisiana State University, Baton Rouge, LA \
 Division of Computer Science and Engineering \
 Relevant coursework: Brain Computer Interaction, ADHD, Serious Games 
 
 
-**B.S., Department of Computer and Instructional Technologies Education** \
+**B.Sc., Department of Computer and Instructional Technologies Education** \
 Ondokuz Mayis University, Samsun, Turkiye \
 Faculty of Education \
 Relevant coursework: Material Design, Programming Languages, AI, Distance Learning 
@@ -51,6 +60,5 @@ Data Science II (Python), Machine Learning (Python)
 - Consistently received positive feedback resulting in a 4.6/5.0 on student evaluations. 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
 
 <!--  {% include_relative _includes/services.md %} -->

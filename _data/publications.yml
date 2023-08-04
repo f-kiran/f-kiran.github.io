@@ -1,22 +1,39 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Mediating role of positivity in the relationship between state anxiety and problematic social media use during the COVID-19 pandemic"
+    authors: Ibrahim Arpaci, Kasim Karatas,  <strong>Fettah Kiran</strong>, Ismail Kusci, Ahmet Topcu
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:eQOLeE2rZwMC
+    conference_short: 
+    conference: Death Studies
+    pdf: "https://www.researchgate.net/profile/Ibrahim-Arpaci-2/publication/369589223_Mediating_role_of_positivity_in_the_relationship_between_state_anxiety_and_problematic_social_media_use_during_the_COVID-19_pandemic/links/6423711c66f8522c38dc2e70/Mediating-role-of-positivity-in-the-relationship-between-state-anxiety-and-problematic-social-media-use-during-the-COVID-19-pandemic.pdf"
+    code: 
+    page:
+    bibtex: ./assets/papers/bibtex/death21.bib
+    notes: 
+    image: ./assets/img/teaser_J2.png
+    mainpage:  https://www.tandfonline.com/doi/full/10.1080/07481187.2021.1923588
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Quantifying Brain Activity State: EEG analysis of Background Music in A Serious Game on Attention of Children"
+    authors: Ömer M. Soysal, <strong>Fettah Kiran</strong> Jianhua Chen
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:W7OEmFMy1HYC
+    conference_short: IEEE/ISMSIT
+    conference: International Symposium on Multidisciplinary Studies and Innovative Technologies <strong>(ISMSIT)</strong>, 2020.
+    pdf: https://drive.google.com/file/d/11ojR6n2sppXllaE95E-YZVASagOP_ehv/view?usp=share_link
+    code: 
+    page:
+    bibtex: ./assets/papers/bibtex/ismit2020.bib
+    notes: Journal Paper
+    image: ./assets/img/teaser_J1.png
+    mainpage:  https://ieeexplore.ieee.org/abstract/document/9255308
+
+  - title: "Exploring Effects of Background Music in A Serious Game on Attention by Means of EEG Signals in Children"
+    authors: <strong>Fettah Kiran</strong>
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:YsMSGLbcyi4C
+    conference_short: LSU Digital Commons
+    pdf: https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=6202&context=gradschool_theses
+    code: 
+    page:
+    bibtex: ./assets/papers/bibtex/msc2020.bib
+    image: ./assets/img/teaser_MSc.png
+    notes: LSU Master's Theses
+    mainpage:  https://digitalcommons.lsu.edu/gradschool_theses/5151/
