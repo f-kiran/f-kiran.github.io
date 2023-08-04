@@ -16,10 +16,10 @@ A researcher at [ACDC](https://cpl.uh.edu/index.php/) lab in Computer Science sk
 <!-- publications.md-->
 {% include_relative _includes/publications.md %}
 
-## EDUCATION
+## Education
 
 **Ph.D., Computer Science** \
-University of Houston, Houston, TX \
+University of Houston, Houston, TX  \
 College of Natural Sciences and Mathematics \
 Relevant coursework: Statistical Methods in Research \
 Research: Affective Computing, Human-Computer Interaction, Signal Processing 
@@ -35,15 +35,14 @@ Ondokuz Mayis University, Samsun, Turkiye \
 Faculty of Education \
 Relevant coursework: Material Design, Programming Languages, AI, Distance Learning 
 
-## TECHNICAL SKILLS
-
-- **Data Analysis and Statistics:** Multimodel Data, R, Python
+## Technical Skills
+- **Data Analysis and Statistics:** Multimodal Data, R, Python
 - **Design and Modeling Tools:** Swift, Xcode, Canvas, Microsoft Office
 - **Programming:** Python, R, C++, Swift
 - **Operating Systems:** MS Windows, MacOS, Bash, Linux
 - **Certifications:** LSU IRB – December 2019, Human Research Investigation. CITI - University of Houston
 
-## EXPERIENCE
+## Experience
 
 | **Research Assistant** Texas Institute for Measurement, Evaluation and Statistics, Houston,TX
 
