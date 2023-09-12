@@ -5,8 +5,9 @@ layout: homepage
 
 ## Bio
 
-I am a Ph.D. student working under the guidance of Dr. Ioannis Pavlidis in Affective & Data Computing  [ACDC](https://cpl.uh.edu/index.php/) lab. I have an M.Sc. in Computer Science from Louisiana State University. I'm working in the NSF funded [Affective Math]() project involving by conducting experiment, analysing data, and developing models.
+I am currently a Ph.D. student conducting research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of Prof. Ioannis Pavlidis. My academic journey includes an M.S. in Computer Science earned at Louisiana State University.
 
+My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() project, where I am deeply involved in various aspects of the research process. This includes designing and conducting experiments, meticulously analyzing data, and actively contributing to the development of sophisticated mathematical models. My dedication to this project allows me to explore and contribute to the exciting intersection of affective computing and mathematics, furthering our understanding of these fields.
 
 ## Research Interests
 
