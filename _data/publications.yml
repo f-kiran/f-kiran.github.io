@@ -1,5 +1,19 @@
 main:
 
+  - title: "Relatable and Humorous Videos Reduce Hyperarousal in Math Exams"
+    authors:  <strong>Fettah Kiran</strong>, Amanveer Wesley, Tammy Tolar, Paul Cirino, Panagiotis Tsiamyrtzis and Ioannis Pavlidis 
+    scholar: https://scholar.google.com/
+    conference_short: ACII23
+    conference: Affective Computing + Intelligent Interaction
+    pdf: ""
+    code: "https://github.com/UH-CPL/ACII-2023-Affective-Math-Exam"
+    page: "https://osf.io/qx6et/"
+    bibtex: 
+    notes: 
+    image: ./assets/img/teaser_ACII23.png
+    mainpage:  
+
+
   - title: "Mediating role of positivity in the relationship between state anxiety and problematic social media use during the COVID-19 pandemic"
     authors: Ibrahim Arpaci, Kasim Karatas,  <strong>Fettah Kiran</strong>, Ismail Kusci, Ahmet Topcu
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:eQOLeE2rZwMC
