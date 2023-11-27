@@ -11,7 +11,8 @@ Research: Affective Computing, Human-Computer Interaction, Signal Processing
 **M.S., Computer Science (2020)** \
 Louisiana State University, Baton Rouge, LA \
 Division of Computer Science and Engineering \
-Relevant coursework: Brain Computer Interaction, ADHD, Serious Games 
+Relevant coursework: ML, AI, Theory of Computation, Game Design
+Research: Brain Computer Interaction, ADHD, Serious Games 
 
 
 **B.S., Department of Computer and Instructional Technologies Education (2013)** \
