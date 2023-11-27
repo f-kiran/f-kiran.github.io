@@ -28,7 +28,7 @@ My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() pr
 {% include_relative _includes/publications.md %}
 
 <!-- teaching.md-->
-<!-- {% include_relative _includes/teaching.md %} -->
+{% include_relative _includes/teaching.md %}
 
 
 <!--  {% include_relative _includes/services.md %} -->
