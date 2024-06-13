@@ -23,7 +23,7 @@ main:
     code: 
     page:
     bibtex: ./assets/papers/bibtex/death21.bib
-    notes: 
+    notes: Journal Paper
     image: ./assets/img/teaser_J2.png
     mainpage:  https://www.tandfonline.com/doi/full/10.1080/07481187.2021.1923588
 

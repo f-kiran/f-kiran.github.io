@@ -4,8 +4,9 @@
 **Research Assistant** Texas Institute for Measurement, Evaluation and Statistics, Houston, TX
 
 - Preparing experimental setup
-- Collecting, curating, and visualizing NSF-funded Affective Math project data 
+- Collecting, curating, and visualizing Affective Math data 
 - Developing analytic methods in R
+- Training thermal imaging
 
 **Graduate Teaching Assistant** Department of Computer Science, University of Houston, TX
 
