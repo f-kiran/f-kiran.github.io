@@ -12,9 +12,9 @@
 
 **STATISTICAL METHODS IN RESEARCH - COSC 6323**
 
-- [SPRING 2024](https://cpl.uh.edu/index.php/courses/29-statistical-methods-in-research/271-spring-2024) | [GitHub repo](https://github.com/f-kiran/cosc6323-stats-r-practice)
+- [SPRING 2024](https://cpl.uh.edu/index.php/courses/29-statistical-methods-in-research/271-spring-2024) \| [GitHub repo](https://github.com/f-kiran/cosc6323-stats-r-practice)
 
-- [SPRING 2023](https://cpl.uh.edu/index.php/courses/29-statistical-methods-in-research/253-spring-2023#key-information) | [GitHub repo](https://github.com/vvzhukov/COSC6323_public_files)
+- [SPRING 2023](https://cpl.uh.edu/index.php/courses/29-statistical-methods-in-research/253-spring-2023#key-information) \| [GitHub repo](https://github.com/vvzhukov/COSC6323_public_files)
 
 ---
 
