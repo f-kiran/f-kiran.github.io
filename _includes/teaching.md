@@ -3,11 +3,11 @@
 
 **UBIQUITOUS COMPUTING - COSC 4355**
 
-- [FALL 2024](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/273-fall-2024) | [GitHub repo](https://github.com/f-kiran/cosc4355-ubicomp-swift)
+- [FALL 2024](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/273-fall-2024) \| [GitHub repo](https://github.com/f-kiran/cosc4355-ubicomp-swift)
 
-- [FALL 2023](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/268-fall-2023#key-information) | [GitHub repo](https://github.com/vvzhukov/COSC4355_public_files)
+- [FALL 2023](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/268-fall-2023#key-information) \| [GitHub repo](https://github.com/vvzhukov/COSC4355_public_files)
 
-- [FALL 2022](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/251-fall-2020#key-information) | [GitHub repo](https://github.com/vvzhukov/COSC4355_public_files)
+- [FALL 2022](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/251-fall-2020#key-information) \| [GitHub repo](https://github.com/vvzhukov/COSC4355_public_files)
 
 
 **STATISTICAL METHODS IN RESEARCH - COSC 6323**
