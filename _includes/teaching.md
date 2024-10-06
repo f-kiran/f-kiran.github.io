@@ -3,6 +3,8 @@
 
 **UBIQUITOUS COMPUTING**
 
+- [Ubiquitous Computing - FALL 2024](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/273-fall-2024) - [Repo](https://github.com/f-kiran/cosc4355-ubicomp-swift)
+
 - [Ubiquitous Computing - FALL 2023](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/268-fall-2023#key-information) - [Repo](https://github.com/vvzhukov/COSC4355_public_files)
 
 - [Ubiquitous Computing - FALL 2022](https://cpl.uh.edu/index.php/courses/28-ubiquitous-computing/251-fall-2020#key-information) - [Repo](https://github.com/vvzhukov/COSC4355_public_files)
