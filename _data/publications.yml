@@ -36,7 +36,7 @@ main:
     code: 
     page:
     bibtex: ./assets/papers/bibtex/ismit2020.bib
-    notes: Journal Paper
+    notes: Conference Paper
     image: ./assets/img/teaser_J1.png
     mainpage:  https://ieeexplore.ieee.org/abstract/document/9255308
 
