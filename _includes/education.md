@@ -2,7 +2,7 @@
 
 ## Education
 
-**Ph.D., Computer Science** \
+**Ph.D., Computer Science  (2025)e** \
 University of Houston, Houston, TX  \
 College of Natural Sciences and Mathematics \
 Relevant coursework: Statistical Methods in Research \
