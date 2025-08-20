@@ -5,9 +5,9 @@ layout: homepage
 
 ## Bio
 
-I am currently a Ph.D. student conducting research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of Prof. Ioannis Pavlidis. My academic journey includes an M.S. in Computer Science earned at Louisiana State University.
+I am a Ph.D. graduate in Computer Science from the University of Houston, where I conducted research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of Prof. Ioannis Pavlidis. My doctoral research focused on affective and data computing with applications in mental health support, human-computer interaction (HCI), and adaptive educational technologies, with a particular emphasis on addressing math anxiety in higher education. My academic journey also includes an M.S. in Computer Science earned at Louisiana State University.
 
-My Ph.D. research work is a pivotal part of the NSF-funded [Affective Math]() project, where I am deeply involved in various aspects of the research process. This includes designing and conducting experiments, meticulously analyzing data, and actively contributing to the development of sophisticated mathematical models. My dedication to this project allows me to explore and contribute to the exciting intersection of affective computing and mathematics, furthering our understanding of these fields.
+My Ph.D. research formed a pivotal part of the NSF-funded [Affective Math]() project, where I contributed to the full spectrum of the research process—designing and conducting experiments, analyzing multimodal data, and developing mathematical models to capture the interplay between affect and learning. This work advanced our understanding of how affective states, particularly math anxiety, impact student performance and learning outcomes, bridging the fields of affective computing, education, and data science.
 
 ## Research Interests
 
