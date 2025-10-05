@@ -1,5 +1,18 @@
 main:
 
+  - title: "Facial self-touches are associated with mental stress in knowledge Work"
+    authors:  <strong>Fettah Kiran, MD Tanim Hasan, Kaushik Ganeshan, Gayatri Bhatambarekar, Abhijit Sarkar and Ioannis Pavlidis </strong> 
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:WF5omc3nYNoC
+    conference_short: ACII25
+    conference: Affective Computing + Intelligent Interaction
+    pdf: "https://www.cpl.uh.edu/images/publication_files/C81-New.pdf"
+    code: "https://github.com/UH-ACDC/ACII-2025-sFST"
+    page: "https://osf.io/pu9as/"
+    bibtex: ./assets/papers/bibtex/aciiw25.bib
+    notes: Conference Paper
+    image: ./assets/img/teaser_ACII25.png
+    mainpage: https://acii-conf.net/2025/full-program-schedule/  
+
   - title: "STREL – Naturalistic Dataset and Methods for Studying Mental Stress and Relaxation Patterns in Critical Leading Roles"
     authors: <strong>Corinna Rott, Fettah Kiran, Mien Segers, Piet Van den Bossche, and Ioannis Pavlidis </strong>  
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:_FxGoFyzp5QC
