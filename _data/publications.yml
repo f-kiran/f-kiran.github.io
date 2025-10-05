@@ -16,7 +16,7 @@ main:
   - title: "STREL – Naturalistic Dataset and Methods for Studying Mental Stress and Relaxation Patterns in Critical Leading Roles"
     authors: <strong>Corinna Rott, Fettah Kiran, Mien Segers, Piet Van den Bossche, and Ioannis Pavlidis </strong>  
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:_FxGoFyzp5QC
-    conference_short: IEEE Transactions on Affective Computing
+    conference_short: IEEE TAFFC
     conference: IEEE Transactions on Affective Computing
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11185201
     code: https://github.com/UH-ACDC/STREL
