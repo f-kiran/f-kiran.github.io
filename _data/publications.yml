@@ -1,5 +1,18 @@
 main:
 
+  - title: "STREL – Naturalistic Dataset and Methods for Studying Mental Stress and Relaxation Patterns in Critical Leading Roles"
+    authors: <strong>Corinna Rott, Fettah Kiran, Mien Segers, Piet Van den Bossche, and Ioannis Pavlidis </strong>  
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:_FxGoFyzp5QC
+    conference_short: IEEE Transactions on Affective Computing
+    conference: IEEE Transactions on Affective Computing
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11185201
+    code: https://github.com/UH-ACDC/STREL
+    page: https://osf.io/qshv7/
+    bibtex: ./assets/papers/bibtex/strel2025.bib
+    notes: Journal Paper
+    image: ./assets/img/teaser_Strel.png
+    mainpage:  https://ieeexplore.ieee.org/document/11185201
+
   - title: "Relatable and Humorous Videos Reduce Hyperarousal in Math Exams"
     authors:  <strong>Fettah Kiran, Amanveer Wesley, Tammy Tolar, Paul Cirino, Panagiotis Tsiamyrtzis and Ioannis Pavlidis </strong> 
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:WF5omc3nYNoC
