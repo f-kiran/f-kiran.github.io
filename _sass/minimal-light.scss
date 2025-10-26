@@ -182,6 +182,64 @@ papertitle {
 
 }
 
+/* Manual dark mode override - when .dark-mode class is applied */
+.dark-mode {
+    body {
+        background-color: #20212b;
+        color: #dadbdf;
+    }
+
+    autocolor{
+      color:#dadbdf;
+    }
+
+    lightonly {
+      visibility: hidden;
+    }
+
+    darkonly {
+      visibility: visible;
+    }
+
+    papertitle {
+    color:#eeeff0;
+    }
+
+    h1, h3, h4, h5, h6 {
+      color:rgb(62, 183, 240);
+    }
+
+    h2 {
+      color:rgb(62, 183, 240);
+    }
+
+    a {
+      color:rgb(62, 183, 240);
+    }
+
+    th {
+      color:rgb(62, 183, 240);
+    }
+
+    dt {
+      color:rgb(62, 183, 240);
+    }
+
+    strong {
+      color:#eeeff0;
+    }
+
+    .social-icons a {
+      color: #3eb7f0 !important;
+    }
+
+    .social-icons a:hover {
+      background-color:#20212b;
+      color:black;
+      transform: scale(1.2);
+    }
+}
+
 
   .image {
     border-radius: 0.35em;
@@ -363,6 +421,7 @@ header {
   padding-top:4.0em;
   text-align:center
 }
+
 
 
 
@@ -594,4 +653,68 @@ footer {
   margin-left: 0px;
   display:none;
   font-family: monospace;
+}
+
+/* Dark Mode Toggle Button */
+.dark-mode-toggle {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.toggle-btn {
+  background-color: transparent;
+  border: 2px solid #043361;
+  border-radius: 50%;
+  width: 3rem;
+  height: 3rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  color: #043361;
+  font-size: 1.2rem;
+}
+
+.toggle-btn:hover {
+  background-color: #043361;
+  color: white;
+  transform: scale(1.1);
+}
+
+.toggle-btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(4, 51, 97, 0.3);
+}
+
+/* Dark mode styles for toggle button */
+@media (prefers-color-scheme: dark) {
+  .toggle-btn {
+    border-color: #3eb7f0;
+    color: #3eb7f0;
+  }
+  
+  .toggle-btn:hover {
+    background-color: #3eb7f0;
+    color: #20212b;
+  }
+  
+  .toggle-btn:focus {
+    box-shadow: 0 0 0 3px rgba(62, 183, 240, 0.3);
+  }
+}
+
+/* Manual dark mode override styles */
+.dark-mode .toggle-btn {
+  border-color: #3eb7f0;
+  color: #3eb7f0;
+}
+
+.dark-mode .toggle-btn:hover {
+  background-color: #3eb7f0;
+  color: #20212b;
+}
+
+.dark-mode .toggle-btn:focus {
+  box-shadow: 0 0 0 3px rgba(62, 183, 240, 0.3);
 }

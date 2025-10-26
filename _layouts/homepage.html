@@ -93,6 +93,14 @@
         </div>
         <br>
 
+        <!-- Dark Mode Toggle Button -->
+        <div class="dark-mode-toggle">
+          <button id="dark-mode-btn" class="toggle-btn" aria-label="Toggle dark mode">
+            <i class="fas fa-moon" id="dark-mode-icon"></i>
+          </button>
+        </div>
+        <br>
+
       </header>
       <section>
 
@@ -110,6 +118,7 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/dark-mode-toggle.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
