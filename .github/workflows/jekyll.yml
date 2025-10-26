@@ -31,7 +31,7 @@ jobs:
       
       - name: Build with Jekyll
         run: |
-          bundle exec jekyll build
+          bundle exec jekyll build --safe --verbose
         env:
           JEKYLL_ENV: production
           PAGES_REPO_NWO: f-kiran/f-kiran.github.io

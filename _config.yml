@@ -51,6 +51,12 @@ google_analytics: G-NFDDD8W23W
 # Repository information for GitHub Pages
 repository: f-kiran/f-kiran.github.io
 
+# Jekyll configuration
+safe: true
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 remote_theme: yaoyao-liu/minimal-light
@@ -65,3 +71,8 @@ exclude:
   - minimal-light.gemspec
   - html_source_file/
   - .github/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - .git/
+  - .gitignore
