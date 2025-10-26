@@ -696,7 +696,7 @@ footer {
   
   .toggle-btn:hover {
     background-color: #3eb7f0;
-    color: #20212b;
+    color: #ffffff;
   }
   
   .toggle-btn:focus {
@@ -712,9 +712,9 @@ footer {
 
 .dark-mode .toggle-btn:hover {
   background-color: #3eb7f0;
-  color: #20212b;
+  color: #ffffff;
 }
 
 .dark-mode .toggle-btn:focus {
-  box-shadow: 0 0 0 3px rgba(62, 183, 240, 0.3);
+  box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.3);
 }
