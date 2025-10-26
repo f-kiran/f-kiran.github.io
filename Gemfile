@@ -1,17 +1,7 @@
 source "https://rubygems.org"
 
-# Jekyll version
-gem "jekyll", "~> 4.3.0"
-
-# GitHub Pages compatibility
+# GitHub Pages compatibility - this includes Jekyll and all necessary gems
 gem "github-pages", group: :jekyll_plugins
-
-# Plugins
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
-end
 
 # Windows compatibility
 platforms :mingw, :x64_mingw, :mswin, :jruby do
