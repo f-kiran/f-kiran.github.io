@@ -5,9 +5,12 @@ layout: homepage
 
 ## Bio
 
-I am a Ph.D. graduate in Computer Science from the University of Houston, where I conducted research in the Affective & Data Computing [ACDC](https://cpl.uh.edu/index.php/) lab under the esteemed guidance of [Prof. Ioannis Pavlidis](https://www.linkedin.com/in/ioannis-t-pavlidis/). My doctoral research focused on affective and data computing with applications in mental health support, human-computer interaction (HCI), and adaptive educational technologies, with a particular emphasis on addressing math anxiety in higher education. My academic journey also includes an M.S. in Computer Science earned at Louisiana State University.
 
-My Ph.D. research formed a pivotal part of the NSF-funded [Affective Math](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760760) project, where I contributed to the full spectrum of the research process—designing and conducting experiments, analyzing multimodal data, and developing mathematical models to capture the interplay between affect and learning. This work advanced our understanding of how affective states, particularly math anxiety, impact student performance and learning outcomes, bridging the fields of affective computing, education, and data science.
+Dr. Fettah Kiran is a Ph.D. graduate in Computer Science from the University of Houston, where he conducted research in the Affective & Data Computing [ACDC Lab](https://cpl.uh.edu/index.php/) under the supervision of [Prof. Ioannis Pavlidis](https://www.linkedin.com/in/ioannis-t-pavlidis/). His research focuses on include AI/ML, human–computer interaction(HCI), affective computing, and naturalistic studies.
+
+His doctoral work was part of the NSF-funded [Affective Math]((https://www.nsf.gov/awardsearch/showAward?AWD_ID=1760760)) project, contributing to experimental design, multimodal data analysis, and modeling the relationship between affect and learning. He earned his B.S. from Ondokuz Mayıs University, his M.S. from Louisiana State University, and his Ph.D. from the University of Houston (2025). He is currently a Faculty Lecturer in [AI and Data Enginering Department](https://ai.yildiz.edu.tr/personel/akademik-personel) at Yıldız Technical University, Türkiye.
+
+
 
 ## Research Interests
 
