@@ -1,5 +1,20 @@
 main:
 
+  - title: "The Hidden Load: Parenting Young Children While Leading in Critical Professions"
+    authors: <strong>Corinna Rott, Fettah Kiran, Malgorzata W. Kozusznik, Mien Segers, Piet Van den Bossche, Ergun Akleman, and Ioannis Pavlidis</strong>
+    scholar: https://scholar.google.com/citations?user=ujbAZusAAAAJ&hl=en
+    conference_short: CHI26
+    conference: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3772318.3790570"
+    code: "https://github.com/UH-ACDC/Parenting-CHI-2026"
+    page: "https://doi.org/10.1145/3772318.3790570"
+    bibtex: ./assets/papers/bibtex/chi26_hidden_load.bib
+    notes: Conference Paper
+    image: ./assets/img/teaser_CHI26.png
+    mainpage: https://doi.org/10.1145/3772318.3790570  
+
+
+
   - title: "Facial Self-touches are Associated With Mental Stress in Knowledge Work"
     authors:  <strong>Fettah Kiran, MD Tanim Hasan, Kaushik Ganeshan, Gayatri Bhatambarekar, Abhijit Sarkar and Ioannis Pavlidis </strong> 
     scholar: https://scholar.google.com/citations?user=ujbAZusAAAAJ&hl=en&citsig=ACUpqDdRR_JqHGN-OgH7b2USIaVy
