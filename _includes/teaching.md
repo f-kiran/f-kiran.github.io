@@ -1,4 +1,4 @@
-<h2 id="teaching" style="margin: 2px 0px 15px;">Teaching</h2>
+<h2 id="teaching" style="margin: 2px 0px 15px;">Teaching at UH</h2>
 
 
 **UBIQUITOUS COMPUTING - COSC 4355**
