@@ -35,5 +35,5 @@ His doctoral work was part of the NSF-funded [Affective Math](https://www.nsf.go
 {% include_relative _includes/teaching.md %}
 
 
-<!--  {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
 
