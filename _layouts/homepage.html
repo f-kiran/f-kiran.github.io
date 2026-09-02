@@ -73,21 +73,20 @@
         </a>
         {% endif %}
 
-        <!-- {% if site.google_scholar %}
+        {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
         </a>   
-        <a class="image google_scholar"><img src="{{ site.google_scholar_log }}" alt="avatar" /></a>
-        {% endif %} -->
-
-        {% if site.google_scholar %}
+        {% endif %}
+        <!-- Try to add scholar logo from the local assets -->
+        <!-- {% if site.google_scholar %}
         <a class="image google_scholar"
           href="{{ site.google_scholar }}"
           target="_blank"
           rel="noopener noreferrer">
           <img src="{{ site.google_scholar_log }}" alt="Google Scholar" />
         </a>
-        {% endif %}
+        {% endif %} -->
 
 
         {% if site.linkedin %}
