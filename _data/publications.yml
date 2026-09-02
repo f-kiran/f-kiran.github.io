@@ -1,5 +1,17 @@
 main:
 
+  - title: "Redesigning Math Assessment Items as Video Stories is Associated With Reduced Physiological Stress"
+    authors: <strong>Fettah Kiran, Paul Cirino and Ioannis Pavlidis </strong>  
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:8k81kl-MbHgC
+    conference_short: IEEE TLT
+    conference: IEEE Transactions on Learning Technologies
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11615123
+    code: https://github.com/UH-ACDC/affective-math-test-repo
+    bibtex: ./assets/papers/bibtex/TLT26_math.bib
+    notes: Journal Paper
+    image: ./assets/img/teaser_TLT26.png
+    mainpage:  https://ieeexplore.ieee.org/document/11615123
+
   - title: "The Hidden Load: Parenting Young Children While Leading in Critical Professions"
     authors: <strong>Corinna Rott, Fettah Kiran, Malgorzata W. Kozusznik, Mien Segers, Piet Van den Bossche, Ergun Akleman, and Ioannis Pavlidis</strong>
     scholar: https://scholar.google.com/citations?user=ujbAZusAAAAJ&hl=en
