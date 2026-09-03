@@ -17,8 +17,8 @@ cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/ftth05
 linkedin: https://www.linkedin.com/in/fettahkiran/
 #twitter: https://twitter.com/
-scopus: https://www.scopus.com/authid/detail.uri?authorId=57220809122
-rgate: https://www.researchgate.net/profile/Fettah-Kiran
+# scopus: https://www.scopus.com/authid/detail.uri?authorId=57220809122
+# rgate: https://www.researchgate.net/profile/Fettah-Kiran
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
