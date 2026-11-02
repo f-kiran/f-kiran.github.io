@@ -26,6 +26,7 @@
   // Apply dark mode
   function applyDarkMode(isDark) {
     document.documentElement.classList.toggle('dark-mode', isDark);
+    document.documentElement.classList.toggle('light-mode', !isDark);
     localStorage.setItem(STORAGE_KEY, isDark.toString());
     
     // Update icon
@@ -36,8 +37,7 @@
 
   // Toggle dark mode
   function toggleDarkMode() {
-    const isCurrentlyDark = document.documentElement.classList.contains('dark-mode');
-    applyDarkMode(!isCurrentlyDark);
+    applyDarkMode(!document.documentElement.classList.contains('dark-mode'));
   }
 
   // Initialize
