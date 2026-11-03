@@ -24,10 +24,12 @@
   }
 
   // Apply dark mode
-  function applyDarkMode(isDark) {
+  function applyDarkMode(isDark, savePreference = false) {
     document.documentElement.classList.toggle('dark-mode', isDark);
     document.documentElement.classList.toggle('light-mode', !isDark);
-    localStorage.setItem(STORAGE_KEY, isDark.toString());
+    if (savePreference) {
+      localStorage.setItem(STORAGE_KEY, isDark.toString());
+    }
     
     // Update icon
     if (darkModeIcon) {
@@ -37,7 +39,7 @@
 
   // Toggle dark mode
   function toggleDarkMode() {
-    applyDarkMode(!document.documentElement.classList.contains('dark-mode'));
+    applyDarkMode(!document.documentElement.classList.contains('dark-mode'), true);
   }
 
   // Initialize

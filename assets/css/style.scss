@@ -2,3 +2,104 @@
 ---
 
 @import "minimal-light";
+
+html.light-mode {
+  color-scheme: light;
+}
+
+html.dark-mode {
+  color-scheme: dark;
+}
+
+.light-mode body {
+  background-color: #fff;
+  color: #222;
+}
+
+.light-mode autocolor,
+.light-mode strong,
+.light-mode papertitle {
+  color: #222;
+}
+
+.light-mode lightonly {
+  visibility: visible;
+}
+
+.light-mode darkonly {
+  visibility: hidden;
+}
+
+.light-mode h1,
+.light-mode h2,
+.light-mode h3,
+.light-mode h4,
+.light-mode h5,
+.light-mode h6 {
+  color: #043361;
+}
+
+.light-mode a {
+  color: #39c;
+}
+
+.light-mode a:hover {
+  color: #069;
+}
+
+.light-mode th,
+.light-mode dt {
+  color: #444;
+}
+
+.light-mode .social-icons a {
+  color: #043361 !important;
+}
+
+.light-mode .toggle-btn {
+  border-color: #043361;
+  color: #043361;
+}
+
+.light-mode .toggle-btn:hover {
+  background-color: #043361;
+  color: #fff;
+}
+
+.dark-mode body {
+  background-color: #20212b;
+  color: #dadbdf;
+}
+
+.dark-mode autocolor {
+  color: #dadbdf;
+}
+
+.dark-mode lightonly {
+  visibility: hidden;
+}
+
+.dark-mode darkonly {
+  visibility: visible;
+}
+
+.dark-mode papertitle,
+.dark-mode strong {
+  color: #eeeff0;
+}
+
+.dark-mode h1,
+.dark-mode h2,
+.dark-mode h3,
+.dark-mode h4,
+.dark-mode h5,
+.dark-mode h6,
+.dark-mode th,
+.dark-mode dt {
+  color: #3eb7f0;
+}
+
+.dark-mode a,
+.dark-mode .social-icons a {
+  color: #3eb7f0 !important;
+}
