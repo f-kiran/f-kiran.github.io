@@ -1,5 +1,17 @@
 main:
 
+  - title: "The Mindful AI Use Scale (MAIS): Development and Initial Cross-Country Structural Evidence Grounded in Mindfulness Theory"
+    authors: Omer Arslan,Ibrahim Arpaci, <strong>Fettah Kiran </strong>
+    scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:9yKSN-GCB0IC
+    conference_short: Current Psychology
+    conference: Current Psychology
+    pdf: https://link.springer.com/journal/12144
+    code: 
+    bibtex: ./assets/papers/bibtex/currentpsychology.bib
+    notes: Journal Paper
+    image: ./assets/img/teaser_J2.png
+    mainpage:  https://link.springer.com/article/10.1007/s12144-023-01098-5
+
   - title: "Redesigning Math Assessment Items as Video Stories is Associated With Reduced Physiological Stress"
     authors: <strong>Fettah Kiran, Paul Cirino and Ioannis Pavlidis </strong>  
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:8k81kl-MbHgC
