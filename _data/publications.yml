@@ -38,7 +38,7 @@ main:
     bibtex: ./assets/papers/bibtex/aciiw25.bib
     notes: Conference Paper
     image: ./assets/img/teaser_ACII25.png
-    mainpage: https://acii-conf.net/2025/full-program-schedule/  
+    mainpage: https://ieeexplore.ieee.org/document/11772064
 
   - title: "STREL – Naturalistic Dataset and Methods for Studying Mental Stress and Relaxation Patterns in Critical Leading Roles"
     authors: <strong>Corinna Rott, Fettah Kiran, Mien Segers, Piet Van den Bossche, and Ioannis Pavlidis </strong>  
