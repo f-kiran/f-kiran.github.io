@@ -233,7 +233,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:calc(100% - 48px);
+  // width:calc(100% - 48px);
+  width:960px;
   max-width:1400px;
   margin:0 auto;
 }
@@ -359,7 +360,8 @@ header ul a strong {
 }
 
 section {
-  width:calc(100% - 280px);
+  // width:calc(100% - 280px);
+  width:650px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
