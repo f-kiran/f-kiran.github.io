@@ -362,8 +362,14 @@ a:hover small {
   color:#777;
 }
 
+body {
+  font-size:18px;
+  line-height:1.6;
+}
+
 .wrapper {
-  width:960px;
+  width:calc(100% - 48px);
+  max-width:1400px;
   margin:0 auto;
 }
 
@@ -500,7 +506,7 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  width:calc(100% - 280px);
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
