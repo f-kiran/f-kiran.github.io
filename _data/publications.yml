@@ -1,6 +1,7 @@
 main:
 
   - title: "The Mindful AI Use Scale (MAIS): Development and Initial Cross-Country Structural Evidence Grounded in Mindfulness Theory"
+    type: journal
     authors: <strong>Omer Arslan,Ibrahim Arpaci, Fettah Kiran </strong>
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:9yKSN-GCB0IC
     conference_short: Current Psychology
@@ -13,6 +14,7 @@ main:
     mainpage:  https://link.springer.com/article/10.1007/s12144-026-10347-7
 
   - title: "Redesigning Math Assessment Items as Video Stories is Associated With Reduced Physiological Stress"
+    type: journal
     authors: <strong>Fettah Kiran, Paul Cirino and Ioannis Pavlidis </strong>  
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:8k81kl-MbHgC
     conference_short: IEEE TLT
@@ -25,6 +27,7 @@ main:
     mainpage:  https://ieeexplore.ieee.org/document/11615123
 
   - title: "The Hidden Load: Parenting Young Children While Leading in Critical Professions"
+    type: conference
     authors: <strong>Corinna Rott, Fettah Kiran, Malgorzata W. Kozusznik, Mien Segers, Piet Van den Bossche, Ergun Akleman, and Ioannis Pavlidis</strong>
     scholar: https://scholar.google.com/citations?user=ujbAZusAAAAJ&hl=en
     conference_short: CHI26
@@ -40,6 +43,7 @@ main:
 
 
   - title: "Facial Self-touches are Associated With Mental Stress in Knowledge Work"
+    type: conference
     authors:  <strong>Fettah Kiran, MD Tanim Hasan, Kaushik Ganeshan, Gayatri Bhatambarekar, Abhijit Sarkar and Ioannis Pavlidis </strong> 
     scholar: https://scholar.google.com/citations?user=ujbAZusAAAAJ&hl=en&citsig=ACUpqDdRR_JqHGN-OgH7b2USIaVy
     conference_short: ACII25
@@ -53,6 +57,7 @@ main:
     mainpage: https://ieeexplore.ieee.org/document/11772064
 
   - title: "STREL – Naturalistic Dataset and Methods for Studying Mental Stress and Relaxation Patterns in Critical Leading Roles"
+    type: journal
     authors: <strong>Corinna Rott, Fettah Kiran, Mien Segers, Piet Van den Bossche, and Ioannis Pavlidis </strong>  
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:_FxGoFyzp5QC
     conference_short: IEEE TAFFC
@@ -66,6 +71,7 @@ main:
     mainpage:  https://ieeexplore.ieee.org/document/11185201
 
   - title: "Relatable and Humorous Videos Reduce Hyperarousal in Math Exams"
+    type: conference
     authors:  <strong>Fettah Kiran, Amanveer Wesley, Tammy Tolar, Paul Cirino, Panagiotis Tsiamyrtzis and Ioannis Pavlidis </strong> 
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:WF5omc3nYNoC
     conference_short: ACII23
@@ -80,6 +86,7 @@ main:
 
 
   - title: "Mediating role of positivity in the relationship between state anxiety and problematic social media use during the COVID-19 pandemic"
+    type: journal
     authors: <strong>Ibrahim Arpaci, Kasim Karatas,  Fettah Kiran, Ismail Kusci, Ahmet Topcu </strong>
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:eQOLeE2rZwMC
     conference_short: Death Studies
@@ -93,6 +100,7 @@ main:
     mainpage:  https://www.tandfonline.com/doi/full/10.1080/07481187.2021.1923588
 
   - title: "Quantifying Brain Activity State: EEG Analysis of Background Music in A Serious Game on Attention of Children"
+    type: conference
     authors: <strong>Ömer M. Soysal, Fettah Kiran, Jianhua Chen </strong> 
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:W7OEmFMy1HYC
     conference_short: IEEE/ISMSIT
@@ -106,6 +114,7 @@ main:
     mainpage:  https://ieeexplore.ieee.org/abstract/document/9255308
 
   - title: "Exploring Effects of Background Music in A Serious Game on Attention by Means of EEG Signals in Children"
+    type: thesis
     authors: <strong>Fettah Kiran</strong>
     scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ujbAZusAAAAJ&citation_for_view=ujbAZusAAAAJ:YsMSGLbcyi4C
     conference_short: LSU Digital Commons

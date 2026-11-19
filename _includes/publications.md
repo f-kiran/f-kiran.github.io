@@ -1,57 +1,20 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-<div class="publications">
-<ol class="bibliography">
+{% assign journals = site.data.publications.main | where: "type", "journal" %}
+{% assign conferences = site.data.publications.main | where: "type", "conference" %}
+{% assign theses = site.data.publications.main | where: "type", "thesis" %}
 
-{% for link in site.data.publications.main %}
+{% if journals.size > 0 %}
+<h3 id="journal-articles" class="publication-category">Journal Articles</h3>
+{% include publication-list.html publications=journals %}
+{% endif %}
 
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-    {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.mainpage }}">{{ link.title }}</a></div>
-      <div class="author"><a href="{{ link.scholar }}" style="color:white">{{ link.authors }}</a></div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.scholar %} 
-      <!--<a href="{{ link.scholar }}"  target="_blank" style="font-size:12px;" ><img style="width: 27px; height: 27px; border: 0;" src="./assets/img/google_scholar_log.png" class=""></a> -->
-      <a href="{{ link.scholar }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Google Scholar</a>
-      {% endif %}
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
+{% if conferences.size > 0 %}
+<h3 id="conference-papers" class="publication-category">Conference Papers</h3>
+{% include publication-list.html publications=conferences %}
+{% endif %}
 
-<br>
-
-{% endfor %}
-
-</ol>
-</div>
-
+{% if theses.size > 0 %}
+<h3 id="theses" class="publication-category">Thesis</h3>
+{% include publication-list.html publications=theses %}
+{% endif %}

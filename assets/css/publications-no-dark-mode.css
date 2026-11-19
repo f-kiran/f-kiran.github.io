@@ -26,6 +26,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications { margin-top: 2rem; }
 
+.publication-category {
+  margin: 2rem 0 0;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--global-text-color-light);
+}
+
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }
 
 .publications h2 { margin-bottom: 1rem; }
@@ -36,7 +42,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography { list-style: none; padding: 0; margin-top: 0; }
 
-.publications ol.bibliography li { min-height: 110px; margin-bottom: 0.5rem; }
+.publications ol.bibliography li { min-height: 110px; margin-bottom: 1.25rem; }
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
